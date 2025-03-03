@@ -3,6 +3,6 @@
 
 int main()
 {
-    std::cout << "Hello World!\nTest gita";
+    std::cout << "Hello World!\nTest gita\nTest pierwszego brancha\n";
 }
 
